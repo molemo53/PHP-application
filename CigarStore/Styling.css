@@ -1,0 +1,153 @@
+#outerDiv
+{
+	 background-color: #b0c4de;
+	 width: 1320px;
+	 height: 1700px;
+}
+
+#innerDivTop
+{
+	background-color: gray;
+	width: 1295px;
+	height: 100px;
+	margin-left: 12px;
+}
+
+#logoDiv
+{
+	width: 316px;
+	height: 215px;
+}
+
+#innerDivCenter
+{
+	background-color: red;
+	width: 1295px;
+	height: 1370px;
+	margin-left: 12px;
+}
+
+#innerDivBottom
+{
+	background-color: gray;
+	width: 1295px;
+	height: 100px;
+	margin-left: 12px;
+	margin-bottom: 50px;
+}
+
+#innerInnerDivCenter
+{
+	background-color: white;
+	width: 1190px;
+	height: 1370px;
+	margin-top: 120;
+	margin-left: 50px;
+}
+
+#outerDivReg
+{
+	 background-color: #b0c4de;
+	 width: 1320px;
+	 height: 905px;
+}
+
+#innerDivCenterReg
+{
+	background-color: red;
+	width: 1295px;
+	height: 570px;
+	margin-left: 12px;
+}
+
+#innerInnerDivCenterReg
+{
+	background-color: white;
+	width: 1190px;
+	height: 570px;
+	margin-top: 120;
+	margin-left: 50px;
+}
+
+#outerDivLog
+{
+	 background-color: #b0c4de;
+	 width: 1320px;
+	 height: 630px;
+}
+
+#innerDivCenterLog
+{
+	background-color: red;
+	width: 1295px;
+	height: 300px;
+	margin-left: 12px;
+}
+
+#innerInnerDivCenterLog
+{
+	background-color: white;
+	width: 1190px;
+	height: 300px;
+	margin-top: 120;
+	margin-left: 50px;
+}
+
+#itemsTable
+{
+	padding-top: 80px;
+}
+
+#cartTable
+{
+	padding-top: 80px;
+}
+
+#shipRow
+{
+	border-right: 1px solid;
+}
+
+#topTable
+{
+	margin-top: 70px;
+	margin-right: 20px;
+	margin-bottom: 130px;
+}
+
+#topTableData
+{
+	border-right: 1px solid;
+}
+
+#shipmentTable
+{
+	background-color: #F5F5F0;
+}
+
+#refString
+{
+	padding-left: 200px;
+}
+
+#regHead
+{
+	padding-left: 200px;
+}
+
+#logHead
+{
+	padding-left: 394px;
+}
+
+#addUser
+{
+	height: 40px;
+	width: 120px;
+}
+
+#login
+{
+	height: 30px;
+	width: 100px;
+}

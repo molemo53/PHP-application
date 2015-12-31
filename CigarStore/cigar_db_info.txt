@@ -1,0 +1,42 @@
+Olive Cigar
+Ernesto Perez-Carrillo Cigar
+Davidoff Cigar
+Rocky Patel Cigar
+CAO Cigar
+Bolivar Cigar
+Gurkha Cigar
+Macanudo Cigar
+Montecristo Cigar
+Padron Cigar
+
+Top 1 Best Cigars Oliva Serie V Montecristo Jacopo
+Top 2 Best Cigars E.P. Carrillo La Historia E-III
+Top 3 Best Cigars Illusione Fume d’Amour Clementes
+Top 4 Best Cigars Hoyo de Monterrey Epicure Especial (Tubo)
+Top 5 Best Cigars Rocky Patel Royale Toro
+Top 6 Best Cigars Fuente Fuente OpusX PerfecXion X
+Top 7 Best Cigars Padrón Family Reserve 50 Years Maduro
+Top 8 Best Cigars Ashton Estate Sun Grown 22-Year Salute
+Top 9 Best Cigars Monte by Montecristo Jacopo No. 2
+Top 10 Best Cigars A. Flores 1975 Serie Privada Capa Habano SP52
+
+wedstore
+
+cigar | 
+id		brand	name	units	cost image_url
+primary
+auto_incriment	
+
+User |
+id		first_name	last_name	email	password
+primary
+auto_incriment
+
+orderLine |
+order_id	cigar_id	quantity	price
+primary
+auto_incriment	index
+
+order |
+order_id	user_id	   date	    delivery_date
+auto_incriment	index
